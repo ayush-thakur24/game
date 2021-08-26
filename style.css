@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.one{
+    color: blue;
+    font-size: 60px;
+    display: flex;    
+    background-image:url(pexels-photo-574071.jpeg) ;
+    min-height: 100vh;
+    background-size: cover; 
+    background-position:center ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.two{
+    background-image: url(playstation.jpeg);
+    min-height: 100vh;
+    background-position:center ;
+    background-attachment: fixed;
+    color:rgb(255, 8, 202);
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    align-items: center;
+}   
+.three{
+    background-image: url(assassins-creed-logo-assassins-creed-unity-symbol-11562928846pfso5lm8o0.png);
+    min-height: 100vh;
+    background-position:center ;
+    background-attachment: fixed;
+    color:rgb(110, 211, 124);
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    align-items: center;
+
+}
